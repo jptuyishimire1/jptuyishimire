@@ -26,7 +26,7 @@ SECRET_KEY = 'sra(*+p0y2+liu1fg6to0p^qxle__=go00=46tsm8ol(zi$xo0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['mighty-eyrie-92910.herokuapp.com/']
+ALLOWED_HOSTS = ['mighty-eyrie-92910.herokuapp.com']
 
 
 # Application definition
