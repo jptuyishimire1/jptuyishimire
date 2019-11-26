@@ -9,10 +9,10 @@ pylint = "*"
 [packages]
 django = "*"
 django-crispy-forms = "*"
-psycopg2-binary = "*"
 dj-database-url = "*"
 whitenoise = "*"
 gunicorn = "*"
+psycopg2 = "*"
 
 [requires]
 python_version = "3.8"
